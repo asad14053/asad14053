@@ -11,10 +11,10 @@
   <a href="https://stackoverflow.com/users/asad-it">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/asad140532?tab=followers">
+  <a href="https://github.com/asad14053?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-  <a href="https://github.com/asad/">
+  <a href="https://github.com/asad14053/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
 
@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **zzamanasad1@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/asaduzzaman-jabin/resumecv?authuser=0](https://sites.google.com/view/asaduzzaman-jabin/resumecv?authuser=0)
+- 📄 Know about my experiences [portfolio](https://sites.google.com/view/asaduzzaman-jabin/resumecv?authuser=0)
 
 - ⚡ Fun fact **I think I am funny about being humorous!**
 
@@ -50,7 +50,7 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](https://sites.google.com/view/asaduzzaman-jabin/resumecv?authuser=0).
 
 #### My Current Stack
 
