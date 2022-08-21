@@ -60,10 +60,11 @@
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad14053&show_icons=true&locale=en&layout=compact" alt="asad14053" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad14053&show_icons=true&locale=en" alt="asad14053" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad14053&" alt="asad14053" /></p>
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
@@ -96,10 +97,4 @@
 <a href="https://www.topcoder.com/members/mad_scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mad_scientist" height="30" width="40" /></a>
 <a href="https://discord.gg/Zzaman#8666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zzaman#8666" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad14053&show_icons=true&locale=en&layout=compact" alt="asad14053" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad14053&show_icons=true&locale=en" alt="asad14053" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad14053&" alt="asad14053" /></p>
 
