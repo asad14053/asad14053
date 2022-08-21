@@ -2,24 +2,24 @@
 <h3 align="center">A passionate researcher, techy, machine learning enthusiast, and code geek!</h3>
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/asad/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
+  <a href="https://codeforces.com/profile/559935.me">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
+  <a href="https://stackoverflow.com/users/asad-it">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/asad140532?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/asad/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
 
 </p>
-
+#### Now
 - 🔭 I’m currently working on [Soft Robotics](https://wave.engr.uga.edu/projects/)
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow**
@@ -40,36 +40,11 @@
 
 - ⚡ Fun fact **I think I am funny about being humorous!**
 
-<p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
-  </a>
-
-</p>
-
-#### Now
-
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
-
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
+- 🏢 I'm currently working as **Graduate Research Assistant at The University of Georgia**
+- ⚙️ I use daily: `.py`, `.ipyenv`, `.cpp`, `.java`, `.sh`
+- 🌍 I'm mostly active within the **Machine Learning and Robotics Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
