@@ -19,7 +19,9 @@
   </a>
 
 </p>
+
 #### Now
+
 - 🔭 I’m currently working on [Soft Robotics](https://wave.engr.uga.edu/projects/)
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow**
