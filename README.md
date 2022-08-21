@@ -45,11 +45,11 @@
 #### Bio
 
 - 🏢 I'm currently working as **Graduate Research Assistant at The University of Georgia**
-- ⚙️ I use daily: `.py`, `.ipyenv`, `.cpp`, `.java`, `.sh`
+- ⚙️ I use daily: `.py`, `.ipyenv`, `.cpp`, `.c`, `.java`, `.sh`
 - 🌍 I'm mostly active within the **Machine Learning and Robotics Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 📫 Reach me: [twitter.com/zzamanasad](https://twitter.com/zzamanasad)
 - 📝 Checkout my [Resume](https://sites.google.com/view/asaduzzaman-jabin/resumecv?authuser=0).
 
 #### My Current Stack
