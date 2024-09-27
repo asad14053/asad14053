@@ -28,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/asad14053/Machine-Learning-and-Deep-Learning)
 
-- 🤝 I’m looking for help with [GAN, VAE, SVM](https://github.com/asad14053/Machine-Learning-and-Deep-Learning)
+- 🤝 I’m looking for help with [Vision Language Models- Video LLaVA, Video-ChatGPT](https://github.com/asad14053/Machine-Learning-and-Deep-Learning)
 
 - 👨‍💻 All of my projects are available at [https://zzamanasad1.wixsite.com/portfolio/portfolio](https://zzamanasad1.wixsite.com/portfolio/portfolio)
 
